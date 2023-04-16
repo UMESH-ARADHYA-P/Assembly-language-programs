@@ -1,0 +1,4 @@
+op macro
+mov ah,02
+int 21h
+endm

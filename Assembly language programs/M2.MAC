@@ -1,0 +1,4 @@
+mmp macro
+mov ah,01
+int 21h
+endm
